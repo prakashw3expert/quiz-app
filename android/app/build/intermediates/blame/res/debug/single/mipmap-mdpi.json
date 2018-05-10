@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/ample/Work/Quiz/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/ample/Work/Quiz/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/prakashsaini/Sites/quize/quiz/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/Users/prakashsaini/Sites/quize/quiz/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
