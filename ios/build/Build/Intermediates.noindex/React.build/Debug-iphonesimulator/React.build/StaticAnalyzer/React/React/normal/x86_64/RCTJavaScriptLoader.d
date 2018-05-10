@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/prakashsaini/Sites/quize/quiz/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/prakashsaini/Sites/quize/quiz/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/prakashsaini/Sites/quize/quiz/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/prakashsaini/Sites/quize/quiz/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/prakashsaini/Sites/quize/quiz/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/prakashsaini/Sites/quize/quiz/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTPerformanceLogger.h

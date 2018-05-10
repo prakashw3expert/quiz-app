@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/prakashsaini/Sites/quize/quiz/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/prakashsaini/Sites/quize/quiz/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/prakashsaini/Sites/quize/quiz/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
